@@ -2,7 +2,7 @@
 
 :computer: **Ingeniera de Sistemas**
 :pencil: **Apasionada por la tecnologia**
-:eyeglasses: **Friki Empedernida**
+:eyeglasses: **Geek**
 🤖 **Me gusta dibujar, el arte y todo lo relacionado con la tecnologia**
 
 ### Vias de contacto
